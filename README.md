@@ -10,3 +10,8 @@ Here is a short video product tour of GraphQL Editor
 
 Explore more by entering the categories
 
+{% hint style="info" %}
+You can also test the newest version of GraphQL Editor on&#x20;
+
+[https://nightly.graphqleditor.com/](https://nightly.graphqleditor.com)
+{% endhint %}
