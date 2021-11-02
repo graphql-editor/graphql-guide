@@ -4,8 +4,8 @@
 
 * [Home](README.md)
 * [Graph](graphql-editor/graph/README.md)
-  * [Edit](graphql-editor/graph/create/README.md)
-    * [Browse](graphql-editor/graph/create/browse.md)
+  * [Browse](graphql-editor/graph/browse.md)
+  * [Edit](graphql-editor/graph/create.md)
   * [Generate TypeScript/Javascript Client library](graphql-editor/graph/generate-typescript-javascript-client-library.md)
   * [Schema versioning](graphql-editor/graph/schema-versioning.md)
 * [Schema Libraries](graphql-editor/schema-libraries.md)
