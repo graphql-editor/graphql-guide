@@ -1,4 +1,4 @@
-# How To use CLI?
+# CLI
 
 ## GraphQL Editor CLI
 
