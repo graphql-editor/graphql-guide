@@ -6,7 +6,7 @@ description: Great way to play with data from GraphQL backend.
 
 You can create fully functional static GraphQL data-driven websites using our JAMStack Tool. The websites are entirely based on your schema and customisable using CSS and JS consoles. You also have an option to preview, export and save your work in a few convenient ways.
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 
 
