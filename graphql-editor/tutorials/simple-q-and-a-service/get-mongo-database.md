@@ -1,2 +1,0 @@
-# Get Mongo database
-

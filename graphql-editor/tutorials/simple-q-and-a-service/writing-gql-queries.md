@@ -1,2 +1,0 @@
-# Writing GQL queries
-
