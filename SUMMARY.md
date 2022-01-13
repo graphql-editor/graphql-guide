@@ -5,7 +5,7 @@
 * [Home](README.md)
   * [Keyboard navigation](graphql-editor/home/keyboard-navigation.md)
 * [Graph](graphql-editor/graph/README.md)
-  * [Browse](graphql-editor/graph/browse.md)
+  * [Graph](graphql-editor/graph/browse.md)
   * [Edit](graphql-editor/graph/create.md)
   * [Generate TypeScript/Javascript Client library](graphql-editor/graph/generate-typescript-javascript-client-library.md)
   * [Schema versioning](graphql-editor/graph/schema-versioning.md)

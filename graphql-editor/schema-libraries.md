@@ -16,7 +16,7 @@ To attach libraries to an existing project click **Edit GraphQL libraries**.
 
 The library screen will popup
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
 To attach a library, search for it and click the small tick. You can also change the version of the library by clicking a suitable version on the right side of the panel.
 
