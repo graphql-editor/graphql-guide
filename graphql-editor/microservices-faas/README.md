@@ -14,3 +14,14 @@ To deploy your first microservice you need a schema with a query root. Let's not
 Remember. Your schema has to have a root query for GraphQL backends to work
 {% endhint %}
 
+### Use cases
+
+Shared worker deployments should be used in dev environments or MVP projects. They are limited to 200 requests/minute.
+
+#### Dev environment
+
+#### MVP projects
+
+#### PoC projects
+
+#### Internal tools

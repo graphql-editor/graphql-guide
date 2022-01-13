@@ -3,6 +3,7 @@
 ## GraphQL Editor
 
 * [Home](README.md)
+  * [Keyboard navigation](graphql-editor/home/keyboard-navigation.md)
 * [Graph](graphql-editor/graph/README.md)
   * [Browse](graphql-editor/graph/browse.md)
   * [Edit](graphql-editor/graph/create.md)
@@ -31,3 +32,13 @@
   * [Deploy from repository](graphql-editor/untitled/deploy-from-repo-using-cli/README.md)
     * [Gitlab CI](graphql-editor/untitled/deploy-from-repo-using-cli/gitlab-ci.md)
     * [Github Actions](graphql-editor/untitled/deploy-from-repo-using-cli/github-actions.md)
+* [Tutorials](graphql-editor/tutorials/README.md)
+  * [Simple Q\&A service](graphql-editor/tutorials/simple-q-and-a-service/README.md)
+    * [Creating a Schema](graphql-editor/tutorials/simple-q-and-a-service/creating-a-schema.md)
+    * [Get Mongo database](graphql-editor/tutorials/simple-q-and-a-service/get-mongo-database.md)
+    * [Get Twillio Account](graphql-editor/tutorials/simple-q-and-a-service/get-twillio-account.md)
+    * [Bootstrapping the backend](graphql-editor/tutorials/simple-q-and-a-service/bootstrapping-the-backend.md)
+    * [Deployment](graphql-editor/tutorials/simple-q-and-a-service/deployment.md)
+    * [Writing GQL queries](graphql-editor/tutorials/simple-q-and-a-service/writing-gql-queries.md)
+    * [Frontend](graphql-editor/tutorials/simple-q-and-a-service/frontend.md)
+    * [Frontend deployment](graphql-editor/tutorials/simple-q-and-a-service/frontend-deployment.md)

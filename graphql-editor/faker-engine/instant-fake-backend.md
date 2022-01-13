@@ -8,7 +8,7 @@ To use and test a fake backend navigate to GraphQL Cloud via the top menu or (CT
 
 ### Faker configuration
 
-To configure faker, navigate to the faker configuration tab inside Cloud. You can set two types of value faking. One is using a **faker key **and another one is to input **values** and let the faker randomly choose from them. After saving the configuration, the faker engine will automatically update.
+To configure faker, navigate to the faker configuration tab inside Cloud. You can set two types of value faking. One is using a **faker key** and another one is to input **values** and let the faker randomly choose from them. After saving the configuration, the faker engine will automatically update.
 
 ![](<../../.gitbook/assets/image (6).png>)
 

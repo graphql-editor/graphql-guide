@@ -50,4 +50,4 @@ Finally, we added a few ways to display and export the result of your work:
 
 * by clicking the **purple eye button**, you can preview the mock frontend in a new tab
 * you can **Deploy a static site** - this will generate a website viewable online - to access it click **Open deployed static site**
-* **Export zipped static site **will download all of your mock frontend as JSON, CSS, and JS files in one zip folder
+* **Export zipped static site** will download all of your mock frontend as JSON, CSS, and JS files in one zip folder
