@@ -13,6 +13,7 @@
 * [Cloud](graphql-editor/faker-engine/README.md)
   * [Use GraphQL API](graphql-editor/faker-engine/use-graphql-api.md)
   * [Instant Fake backend](graphql-editor/faker-engine/instant-fake-backend.md)
+  * [Form builder](graphql-editor/faker-engine/form-builder.md)
 * [Docs Generation](graphql-editor/docs-generation.md)
 * [Microservices FaaS](graphql-editor/microservices-faas/README.md)
   * [Code Editor](graphql-editor/microservices-faas/code-editor.md)
