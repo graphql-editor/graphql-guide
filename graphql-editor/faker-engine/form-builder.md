@@ -10,10 +10,10 @@ This tool is very useful when you need:
 * manually execute GraphQL Resolvers with user friendly form&#x20;
 * Make the process continous
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (13) (1).png>)
 
 ### Previewing the response
 
 You can preview the response from Form builder either as a table or as raw JSON
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)

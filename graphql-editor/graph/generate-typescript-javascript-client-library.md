@@ -13,3 +13,5 @@ To generate a GraphQL Client:
 3. Generate
 
 When generating Javascript libraries you should also generate typings for type-safe JS.
+
+![](<../../.gitbook/assets/image (7).png>)

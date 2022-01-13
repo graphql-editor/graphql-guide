@@ -6,7 +6,7 @@ description: >-
 
 # Use GraphQL API
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 ### Run operations
 
@@ -16,7 +16,7 @@ To run your GraphQL Operations click Play button and choose the operation you wa
 
 To change URL and/or headers open Change headers popu from Cloud top submenu.
 
-![](<../../.gitbook/assets/image (9) (1).png>)
+![](<../../.gitbook/assets/image (9) (1) (1).png>)
 
 ### CORS
 

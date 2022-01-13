@@ -16,4 +16,4 @@ Live logs are visible always when the service is on.
 To see logs for your project, first of all, please navigate to Secrets and check if the environment variable **DEBUG** is set to **1**
 {% endhint %}
 
-![](<../../.gitbook/assets/image (12) (1) (1).png>)
+![](<../../.gitbook/assets/image (12) (1) (1) (1).png>)
