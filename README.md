@@ -27,5 +27,5 @@ Automatically generate markdown HTML documentation for your schema
 {% hint style="info" %}
 You can also test the newest version of GraphQL Editor on&#x20;
 
-[https://nightly.graphqleditor.com/](https://nightly.graphqleditor.com)
+[https://develop.cloud-graphql-editor.pages.dev/](https://develop.cloud-graphql-editor.pages.dev/)
 {% endhint %}
