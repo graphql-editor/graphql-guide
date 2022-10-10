@@ -5,7 +5,7 @@ description: How to setup Gitlab CI with GraphQL Editor Shared worker deployment
 # Gitlab CI
 
 {% hint style="info" %}
-To get GRAPHQL\__EDITOR\_TOKEN variable run the _[_token_](../get-the-ci-token.md)_ command_
+To get GRAPHQL\__EDITOR\_TOKEN variable run the_ [_token_](../../get-the-ci-token.md) _command_
 {% endhint %}
 
 ```yaml
