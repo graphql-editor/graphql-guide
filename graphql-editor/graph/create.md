@@ -2,7 +2,7 @@
 description: How to create GraphQL nodes and fields
 ---
 
-# Diagram
+# GraphQL Creator
 
 ![](<../../.gitbook/assets/image (11).png>)
 
@@ -35,7 +35,7 @@ To duplicate node open the 3 dots menu on top of the active node and click Dupli
 
 ### Create a node field
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (2).png>)
 
 1. Select a node
 2. Click **+** button
@@ -46,7 +46,7 @@ After that, the node field will be created with a default name (lowercase first 
 
 ### List and Non-null type field
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (4).png>)
 
 1. Select a node
 2. Click **\[!]**
