@@ -5,7 +5,7 @@ description: How to setup Github ActionsI with GraphQL Editor Shared worker depl
 # Github Actions
 
 {% hint style="info" %}
-To get GRAPHQL\__EDITOR\_TOKEN variable run the_ [_token_](../../get-the-ci-token.md) _command_
+To get GRAPHQL\__EDITOR\_TOKEN variable run the_ [_token_](broken-reference) _command_
 {% endhint %}
 
 ```yaml
