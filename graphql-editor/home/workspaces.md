@@ -6,7 +6,7 @@ description: Store your GraphQL Projects inside GraphQL Editor Cloud.
 
 Workspaces are used to organize projects. Each workspace consists of workspace members invited to the workspace.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Main Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Main Screen</p></figcaption></figure>
 
 ### Creating a workspace
 
@@ -21,6 +21,16 @@ To create a workspace click **Add workspace** button. Insert your unique namespa
 
 ### Inviting members
 
+There are 2 ways of inviting the members. First of all open the **Edit Team** menu
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 #### By email
 
+Type the email of the invited user. It doesn't matter if they have an account. Click **Add member.** Then set its role.
+
 #### Using magic link
+
+Click **Magic links** in the **Edit Team** menu. Click **Create Magic Link**.
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

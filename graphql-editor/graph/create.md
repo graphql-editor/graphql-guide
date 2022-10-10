@@ -46,7 +46,7 @@ After that, the node field will be created with a default name (lowercase first 
 
 ### List and Non-null type field
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (17).png>)
 
 1. Select a node
 2. Click **\[!]**

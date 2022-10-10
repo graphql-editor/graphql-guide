@@ -4,9 +4,9 @@ description: >-
   provide you with instant fake backend
 ---
 
-# Use GraphQL API
+# GraphiQL Cloud
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 ### Run operations
 
