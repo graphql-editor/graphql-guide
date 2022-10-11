@@ -23,7 +23,7 @@ To create a workspace click **Add workspace** button. Insert your unique namespa
 
 There are 2 ways of inviting the members. First of all open the **Edit Team** menu
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### By email
 

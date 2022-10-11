@@ -6,11 +6,21 @@ description: How to browse complex GraphQL Schemas
 
 Browsing a big GraphQL Schema with code only is nearly impossible. Instead, you should use our diagram view to browse it.
 
-### Relations
+<figure><img src="../../.gitbook/assets/relation_view(18).png" alt=""><figcaption><p>Example ERD relation View</p></figcaption></figure>
 
-![](<../../.gitbook/assets/image (7) (1) (1).png>)
+### Navigation
 
-For displaying relations we created a special **Relation View**_,_ selectable on the left. As you can see, after selecting a node all related nodes are highlighted.
+To navigate through this view. Click nodes and they will be centered with displayed relations.
 
-![](<../../.gitbook/assets/image (8) (1) (1).png>)
+### Search & Order
+
+Searching and ordering is available inside the top bar
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+After searching you will get only the nodes from the search. Ordering is used to switch the order of Type Definitions like `type` `scalar` `interface` `enum` `input` `union`
+
+### Node options
+
+More options are available&#x20;
 
