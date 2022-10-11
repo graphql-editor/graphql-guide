@@ -10,4 +10,4 @@ To do so please navigate to the resolvers screen in the microservices section. T
 If you use any build system, please provide paths to built files. For example, you can have a file `src/Query/people.ts` but it will output to `lib/Query/people.js` so you should provide `lib/Query/people.js`
 {% endhint %}
 
-![](<../../.gitbook/assets/image (1) (1) (2).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)

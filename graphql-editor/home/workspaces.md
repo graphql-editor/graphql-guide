@@ -23,7 +23,7 @@ To create a workspace click **Add workspace** button. Insert your unique namespa
 
 There are 2 ways of inviting the members. First of all open the **Edit Team** menu
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 #### By email
 
@@ -33,4 +33,4 @@ Type the email of the invited user. It doesn't matter if they have an account. C
 
 Click **Magic links** in the **Edit Team** menu. Click **Create Magic Link**.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
