@@ -33,6 +33,7 @@
   * [Deploy](graphql-editor/jamstack/deploy.md)
   * [React](graphql-editor/jamstack/react.md)
 * [Github Sync](graphql-editor/github-sync.md)
+* [Troubleshooting](graphql-editor/troubleshooting.md)
 
 ## Tools
 

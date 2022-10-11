@@ -16,7 +16,7 @@ To navigate through this view. Click nodes and they will be centered with displa
 
 Searching and ordering is available inside the top bar
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 After searching you will get only the nodes from the search. Ordering is used to switch the order of Type Definitions like `type` `scalar` `interface` `enum` `input` `union`
 
@@ -24,7 +24,7 @@ After searching you will get only the nodes from the search. Ordering is used to
 
 More options are available after selecting a node
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Parent
 

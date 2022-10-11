@@ -33,4 +33,4 @@ Type the email of the invited user. It doesn't matter if they have an account. C
 
 Click **Magic links** in the **Edit Team** menu. Click **Create Magic Link**.
 
-<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2) (1).png" alt=""><figcaption></figcaption></figure>

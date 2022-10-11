@@ -10,7 +10,7 @@ To deploy a new version from the schema, open the version menu, and click **depl
 
 To open a version, open the versions menu and click the desired version.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 the latest version is the only editable version
