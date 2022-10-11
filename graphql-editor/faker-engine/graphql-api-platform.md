@@ -61,5 +61,5 @@ type Person{
 }
 ```
 
-So for itemsByPerson input, you set `Query.people`
+So for itemsByPerson input, you set  `Query.people`as a helper to fetch People to select inside itemsByPerson&#x20;
 
