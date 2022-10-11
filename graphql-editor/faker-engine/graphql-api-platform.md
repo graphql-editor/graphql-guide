@@ -22,7 +22,7 @@ Sometimes the type from GraphQL is not enough to provide the correct field to th
 
 #### Date Widget
 
-This widget provides the date and the datetime inputs formatted to the desired format
+This widget provides date and datetime inputs formatted to the desired format
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -61,16 +61,5 @@ type Person{
 }
 ```
 
-So for itemsByPerson input, you set  `Query.people`as a helper to fetch People to select inside itemsByPerson&#x20;
+So for itemsByPerson input, you set `Query.people`
 
-#### Autocomplete Widget
-
-Autocomplete widget is better for `String` completions like maps addresses.
-
-#### Upload widget
-
-This widget helps to upload the file through the standard S3 way.&#x20;
-
-1. Perform a mutation to receive `putURL` `getURL` params
-2. The widget will upload the file to the `putURL`&#x20;
-3. It will return the file handle to the text input so it could be added to the object
