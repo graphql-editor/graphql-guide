@@ -6,7 +6,7 @@ description: >-
 
 # GraphiQL Cloud
 
-![](<../../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 ### Run operations
 

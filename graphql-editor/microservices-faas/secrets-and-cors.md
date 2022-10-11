@@ -12,6 +12,6 @@ You can safely store secrets inside GraphQL Editor Cloud. To do so, navigate to 
 
 You can add Allowed Origins inside CORS menu inside Settings menu same as for secrets
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 After editing is done please click the big save configuration button.

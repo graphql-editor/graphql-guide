@@ -14,7 +14,7 @@ description: How to create GraphQL nodes and fields
 Node (except scalars) to be fully created needs at least one field.
 {% endhint %}
 
-### Change node name ![](<../../.gitbook/assets/image (3).png>)
+### Change node name ![](<../../.gitbook/assets/image (3) (1).png>)
 
 1. Select the node
 2. Edit its name like a simple text input
