@@ -6,7 +6,7 @@ description: Store your GraphQL Projects inside GraphQL Editor Cloud.
 
 Workspaces are used to organize projects. Each workspace consists of workspace members invited to the workspace.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Main Screen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (3).png" alt=""><figcaption><p>Main Screen</p></figcaption></figure>
 
 ### Creating a workspace
 

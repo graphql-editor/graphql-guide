@@ -4,8 +4,6 @@ description: How to create GraphQL nodes and fields
 
 # GraphQL Creator
 
-![](<../../.gitbook/assets/image (11).png>)
-
 ### Create a node ![](<../../.gitbook/assets/image (14).png>)
 
 1. Click new type/input/interface/union/enum/scalar/directive
