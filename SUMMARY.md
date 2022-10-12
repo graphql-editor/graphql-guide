@@ -7,6 +7,7 @@
   * [Projects](graphql-editor/home/projects.md)
   * [Live Collaboration](graphql-editor/home/live-collaboration.md)
   * [Keyboard navigation](graphql-editor/home/keyboard-navigation.md)
+* [Getting Started](graphql-editor/getting-started.md)
 * [Graph](graphql-editor/graph/README.md)
   * [ERD like Relation View](graphql-editor/graph/browse.md)
   * [GraphQL Creator](graphql-editor/graph/create.md)
