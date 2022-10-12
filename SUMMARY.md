@@ -19,6 +19,7 @@
   * [GraphQL API Platform](graphql-editor/faker-engine/graphql-api-platform.md)
   * [Instant Mock backend](graphql-editor/faker-engine/instant-fake-backend.md)
   * [GraphiQL Cloud](graphql-editor/faker-engine/use-graphql-api.md)
+  * [Endpoint switcher](graphql-editor/faker-engine/endpoint-switcher.md)
   * [Rest to GraphQL](graphql-editor/faker-engine/rest-to-graphql.md)
   * [E2E Tests Builder & Runner](graphql-editor/faker-engine/e2e-tests-builder-and-runner.md)
 * [Microservices FaaS](graphql-editor/microservices-faas/README.md)

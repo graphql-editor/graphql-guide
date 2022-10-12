@@ -6,7 +6,7 @@ description: >-
 
 # GraphiQL Cloud
 
-![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/graphiql prod.gif" alt=""><figcaption></figcaption></figure>
 
 ### Run operations
 
@@ -14,9 +14,7 @@ To run your GraphQL Operations click Play button and choose the operation you wa
 
 ### Change URL and headers
 
-To change URL and/or headers open Change headers popu from Cloud top submenu.
-
-![](<../../.gitbook/assets/image (9) (1) (1).png>)
+To change URL and/or headers open Change headers popup from Cloud top submenu.
 
 ### CORS
 
