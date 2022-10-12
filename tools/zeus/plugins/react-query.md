@@ -5,11 +5,11 @@ order: 2
 category: Plugins
 ---
 
-## Usage with React Query
+# React Query
 
 Zeus can generate type-safe versions of React Query's `useQuery`, `useMutation` etc.. React hooks as `useTypedQuery`, `useTypedMutation` etc... by adding the `--reactQuery` flag to the CLI. All types `data` response are then inherited from the Zeus query. 🚀
 
-```sh
+```bash
 $ zeus schema.graphql ./  --reactQuery
 ```
 

@@ -5,11 +5,13 @@ order: 1
 category: GraphQL
 ---
 
-## GraphQL Unions
+# Interfaces and Unions
+
+### GraphQL Unions
 
 You can use Zeus with [GraphQL Unions](https://spec.graphql.org/June2018/#sec-Unions):
 
-```js
+```typescript
 const { drawChangeCard } = await chain('query')({
   drawChangeCard: {
     __typename: true,
@@ -35,11 +37,11 @@ Response:
 }
 ```
 
-## GraphQL Interfaces
+### GraphQL Interfaces
 
 Zeus works with [GraphQL Interfaces](http://spec.graphql.org/June2018/#sec-Interfaces)
 
-```ts
+```typescript
 const { nameables } = await Gql('query')({
   nameables: {
     __typename: true,

@@ -5,11 +5,11 @@ order: 4
 category: GraphQL
 ---
 
-## Generate GraphQL Gql Strings
+# Generate Gql
 
 Use the `Zeus` function to generate a gql string
 
-```js
+```typescript
 import { Zeus } from './zeus';
 
 const stringGql = Zeus('query', {

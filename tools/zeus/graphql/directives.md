@@ -5,11 +5,11 @@ order: 5
 category: GraphQL
 ---
 
-## GraphQL Directives
+# Directives
 
 Zeus supports using directives on fields.
 
-```ts
+```typescript
 import { Chain } from './zeus';
 
 // Create a Chain client instance with the endpoint
@@ -27,7 +27,7 @@ const listCardsAndDraw = await chain('query')({
 
 So you need to put full string instead of `true`.
 
-### Use on object field
+## Use on object field
 
 Use directive on `drawCard`
 
@@ -47,7 +47,7 @@ const listCardsAndDraw = await chain('query')({
 });
 ```
 
-### Use on function
+## Use on function
 
 ```ts
 import { Chain } from './zeus';
@@ -74,7 +74,7 @@ const listCardsAndDraw = await chain('query')({
 });
 ```
 
-### Use it with variables
+## Use it with variables
 
 ```ts
 import { Chain } from './zeus';

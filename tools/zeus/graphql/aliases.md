@@ -5,11 +5,11 @@ order: 3
 category: GraphQL
 ---
 
-## GraphQL Aliases
+# Aliases
 
 Zeus supports declaring aliases 🥸
 
-```ts
+```graphql
 const aliasedQueryExecute = await chain('query')({
   listCards: {
     __alias: {

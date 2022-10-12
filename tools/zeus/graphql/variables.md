@@ -5,11 +5,11 @@ order: 2
 category: GraphQL
 ---
 
-## GraphQL Variables
+# Variables
 
 It's simple to perform queries with variables by using `useZeusVariables` function. It forces you to be type-safe also
 
-```ts
+```typescript
 import { Gql, $ } from './zeus';
 
 const addCardResult = await Gql('mutation')(
@@ -45,7 +45,7 @@ const addCardResult = await Gql('mutation')(
 );
 ```
 
-### TypedDocumentNode + Apollo Client useMutation examples
+## TypedDocumentNode + Apollo Client useMutation examples
 
 The following example demonstrates usage with Apollo. Other clients should work similarly.
 
@@ -77,5 +77,3 @@ const Main = () => {
   );
 };
 ```
-
-[typed-document-node]: https://www.graphql-code-generator.com/plugins/typed-document-node
