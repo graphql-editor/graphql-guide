@@ -21,10 +21,10 @@ GraphQL Zeus is the absolute best way to interact with your GraphQL endpoints in
 
 Simply run Zeus in your terminal to output your types file based on your graphql schema
 
-![](/images/zeus-bash-command.png)
+<figure><img src="../../.gitbook/assets/zeus-bash-command.png" alt=""><figcaption></figcaption></figure>
 
 ## Usage Example
 
 Example using a generated `chain` client. Queries, mutations and subscriptions are now type-safe in arguments, field selections and response types.
 
-![](/images/example.png)
+<figure><img src="../../.gitbook/assets/example.png" alt=""><figcaption></figcaption></figure>

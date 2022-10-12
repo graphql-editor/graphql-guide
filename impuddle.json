@@ -2,7 +2,8 @@
     "repos": {
         "https://github.com/graphql-editor/graphql-zeus": {
             "master": {
-                "doc/src/markdown": "tools/zeus"
+                "doc/src/markdown": "tools/zeus",
+                "doc/src/images": "tools/zeus/images"
             }
         }
     }
