@@ -5,11 +5,13 @@ order: 1
 category: Basics
 ---
 
-## Generate Reusable Selection Sets
+# Selectors
+
+### Generate Reusable Selection Sets
 
 In TypeScript Zeus can help make type-safe Zeus selection sets to reuse across queries.
 
-```ts
+```typescript
 import { Selector, Chain } from './zeus';
 
 const chain = Chain('https://faker.graphqleditor.com/a-team/olympus/graphql');
@@ -31,7 +33,7 @@ const queryWithSelectionSet = await chain('query')({
 });
 ```
 
-## Inferring the response type
+### Inferring the response type
 
 Sometimes you would like to infer the response type. The it is best to use selectors
 

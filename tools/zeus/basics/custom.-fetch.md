@@ -5,11 +5,11 @@ order: 7
 category: Basics
 ---
 
-## Perform Queries with Thunder - An Abstracted Fetch Function
+# Custom fetch
 
 With Zeus `Thunder` you have total control of fetch function but will not lose the result type. ⚡️
 
-```js
+```typescript
 import { Thunder } from './zeus';
 
 // Create thunder fetch client with endpoint, options and response handlers

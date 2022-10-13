@@ -5,11 +5,13 @@ order: 5
 category: Basics
 ---
 
-## Generate Code
+# Use as a library
+
+### Generate Code
 
 This will be rarely used, but here you are! Generate Typescript and Javascript from GraphQL definitions
 
-```js
+```typescript
 import { TreeToTS } from 'graphql-zeus';
 import { Parser } from 'graphql-js-tree';
 
@@ -25,11 +27,11 @@ schema{
 const typeScriptDefinition = TreeToTS.resolveTree(Parser.parse(schemaFileContents));
 ```
 
-## Dynamically Fetch Schema
+### Dynamically Fetch Schema
 
 This is useful when you need your schema fetched from your GraphQL endpoint in-code
 
-```js
+```typescript
 import { Utils } from 'graphql-zeus';
 
 Utils.getFromUrl('https://faker.graphqleditor.com/a-team/olympus/graphql').then((schemaContent) => {
