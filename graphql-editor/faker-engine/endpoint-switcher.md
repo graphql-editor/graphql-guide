@@ -1,5 +1,5 @@
 ---
-description: Endpoint switcher works for every tab of Cloud.
+description: Our endpoint switcher works for every tab of Cloud.
 ---
 
 # Endpoint switcher
