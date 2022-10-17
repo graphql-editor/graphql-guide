@@ -12,7 +12,7 @@
   * [ERD like Relation View](graphql-editor/graph/browse.md)
   * [GraphQL Creator](graphql-editor/graph/create.md)
   * [Markdown Docs](graphql-editor/graph/docs-generation.md)
-  * [Generate TypeScript/Javascript Client library](graphql-editor/graph/generate-typescript-javascript-client-library.md)
+  * [Generate TypeScript library](graphql-editor/graph/generate-typescript-javascript-client-library.md)
   * [Schema versioning](graphql-editor/graph/schema-versioning.md)
   * [Compare Schema Versions](graphql-editor/graph/compare-schema-versions.md)
 * [Schema Libraries](graphql-editor/schema-libraries.md)
