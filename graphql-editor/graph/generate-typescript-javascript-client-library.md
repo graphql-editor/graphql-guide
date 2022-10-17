@@ -11,4 +11,4 @@ To generate a GraphQL Client:
 1. Click Export icon
 2. Click Export autocomplete libaries
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Export in menu</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Export option in the menu</p></figcaption></figure>

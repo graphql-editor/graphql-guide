@@ -1,26 +1,26 @@
 ---
 description: >-
-  The first screen in the editor. It represents project schema in a visual way.
-  It consists of 4 views
+  The main screen in the editor. It represents the project schema in a visual
+  way and consists of 5 different views.
 ---
 
 # Graph
 
 ## Views
 
-GraphQL Editor displays schema in 4 Different ways.
+GraphQL Editor displays schema in 5 Different ways:
 
 #### Creator
 
-Create GraphQL Nodes using the visual editor. This view allows editing and creation of GraphQL schema.
+Create GraphQL nodes using the visual editor. This view enables creating and editing your GraphQL schema.
 
 #### ERD-like Relation View
 
-Display relations between GraphQL nodes. Easily navigate through relations. Explore GraphQL Schema in the most visual way. Export relations as images.
+This view displays relations between GraphQL nodes. Easily navigate through relations, scalars & enums, use serach and order and easily explore even the largest GraphQL Schema in an simple and transparent way. Relations can also be exported as .png images.
 
 #### Markdown Docs
 
-Display and edit the schema in markdown format.
+Auto-generated schema documentation you can display and edit in markdown format.
 
 #### Code
 
@@ -28,7 +28,7 @@ Display and edit the schema as GraphQL code. Navigate through nodes in all views
 
 #### Diff & Schema Versioning
 
-Display the difference between schema versions/GitHub commits. Be 100% precise because of diff sorting
+View the differences between schema versions/GitHub commits. Use diff sorting to be 100% precise and see every difference regardless of where it was added in the schema.
 
 
 

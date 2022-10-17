@@ -11,7 +11,7 @@ description: How to create GraphQL nodes and fields
 3. Click enter
 
 {% hint style="info" %}
-Node (except scalars) to be fully created needs at least one field.
+&#x20;Nodes (aside from scalars) need at least one field to be fully created.&#x20;
 {% endhint %}
 
 ### Change node name ![](<../../.gitbook/assets/image (3) (1).png>)
@@ -21,24 +21,24 @@ Node (except scalars) to be fully created needs at least one field.
 
 ### Delete node
 
-![](<../../.gitbook/assets/image (10).png>)
+To delete a node open the 3 dots menu on top of the active node and click Delete Node:
 
-To delete a node open the 3 dots menu on top of the active node and click Delete Node.
+![](<../../.gitbook/assets/image (10).png>)
 
 ### Duplicate node
 
-![](<../../.gitbook/assets/image (9).png>)
+To duplicate node open the 3 dots menu on top of the active node and click Duplicate Node:
 
-To duplicate node open the 3 dots menu on top of the active node and click Duplicate Node
+![](<../../.gitbook/assets/image (9).png>)
 
 ### Create a node field
 
 ![](<../../.gitbook/assets/image (4) (2).png>)
 
 1. Select a node
-2. Click **+** button
-3. Type in the name of the field type or select it.
-4. Click it/Submit
+2. Click the **+** button
+3. Type in the name of the field type or select it
+4. Click the **+** button or press enter to submit
 
 After that, the node field will be created with a default name (lowercase first letter type name). To change it, just select the created field and edit it like a simple text input.
 
@@ -48,7 +48,7 @@ After that, the node field will be created with a default name (lowercase first 
 
 1. Select a node
 2. Click **\[!]**
-3. Select desired options&#x20;
+3. Select the desired options&#x20;
 
 ### Delete a field
 
@@ -62,14 +62,14 @@ After that, the node field will be created with a default name (lowercase first 
 
 ![](<../../.gitbook/assets/image (13).png>)
 
-1. Select node
-2. Click **{}** menu
-3. Select desired interface
+1. Select a node
+2. Click the **{}** menu
+3. Select the desired interface
 
 ### Add directive
 
 ![](<../../.gitbook/assets/image (6).png>)
 
 1. Select a node
-2. Click **@** menu
-3. Select desired directive
+2. Click the **@** menu
+3. Select the desired directive

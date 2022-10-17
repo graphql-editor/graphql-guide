@@ -1,6 +1,6 @@
 ---
 description: >-
-  GraphQL Projects are stored in the cloud. Each project holds GraphQL Schema,
+  GraphQL Projects are stored in the cloud. Each project holds a GraphQL Schema,
   API Platform, Libraries, Microservices, and JS Playground Data.
 ---
 
@@ -8,20 +8,22 @@ description: >-
 
 ### Create a project
 
-To create a project, click the empty tile inside your **Workspace** projects list. It will open a popup with options you can use for your GraphQL project
+To create a project, click the empty tile inside your **Workspace** projects list. It will open a popup with options you can use for your new GraphQL project.\
+\
 
-#### Import from URL
 
-GraphQL schema can be downloaded via introspection from your GraphQL Endpoint. Don't worry about CORS as the editor handles it via the backend Proxy.
-
-#### GitHub connection
+#### Connect to GitHub
 
 The project can be connected to your GitHub repo from the very beginning. It will allow you to commit changes to the schema and create Pull Requests from GraphQL Editor.&#x20;
 
-Both importing from URL and GitHub can be done later in the project
+#### Import from URL
+
+GraphQL schema can be downloaded via introspection from your GraphQL Endpoint. Simply enter the URL and credentials, don't worry about CORS as the editor handles it via the backend Proxy.
+
+Connecting to GitHub and importing from URL can also be done at any point later in the project.&#x20;
 
 #### I want to use
 
-In this category, you can attach directive sets to your project. Each of the technologies listed there works only if the library is attached.
+In this section, you can attach directive sets to your project. Each of the technologies listed there works only if the library is attached and you can also add custom libraries.
 
-&#x20;After setting all the options click **Create Project**.
+After setting all the options click **Create Project**.
