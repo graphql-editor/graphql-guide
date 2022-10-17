@@ -3,7 +3,7 @@
 ## GraphQL Editor
 
 * [Home](README.md)
-  * [Getting Started](graphql-editor/readme/getting-started.md)
+  * [Getting Started](graphql-editor/getting-started.md)
   * [Workspaces](graphql-editor/home/workspaces.md)
   * [Projects](graphql-editor/home/projects.md)
   * [Live Collaboration](graphql-editor/home/live-collaboration.md)
@@ -30,7 +30,7 @@
   * [Deploy using GraphQL Editor](graphql-editor/microservices-faas/deploy-using-graphql-editor.md)
   * [Secrets & CORS](graphql-editor/microservices-faas/secrets-and-cors.md)
   * [Logs](graphql-editor/microservices-faas/logs.md)
-* [JS Playground](graphql-editor/introduction.md)
+* [JS Playground](graphql-editor/jamstack/introduction.md)
 * [Github Sync](graphql-editor/github-sync.md)
 * [Troubleshooting](graphql-editor/troubleshooting.md)
 
