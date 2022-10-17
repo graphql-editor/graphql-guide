@@ -55,7 +55,7 @@
     * [Installation](tools/untitled/integrations/installation.md)
     * [Develop own integrations](tools/untitled/integrations/develop-own-integrations.md)
   * [Get the CI token](tools/untitled/get-the-ci-token.md)
-* [Stucco JS](tools/stucco-js/README.md)
+* [Stucco JS](tools/stucco-js.md)
   * [Resolvers](tools/stucco-js/resolvers.md)
   * [Custom Scalars](tools/stucco-js/custom-scalars.md)
   * [Examples](tools/stucco-js/examples.md)

@@ -28,7 +28,7 @@ So if you have your TypeScript files in src folder you should transpile them to 
 
 ### Local development
 
-To start local development you need `stucco.json`, `schema.graphql`, file with resolvers in the root folder and inside root folder. To fetch your schema from URL you can use tool like [graphql-zeus](https://github.com/graphql-editor/graphql-zeus)
+To start local development you need `stucco.json`, `schema.graphql`, file with resolvers in the root folder and inside the root folder. To fetch your schema from the URL you can use a tool like [graphql-zeus](https://github.com/graphql-editor/graphql-zeus)
 
 Add this script to your package json to test your backend
 
@@ -43,5 +43,5 @@ Add this script to your package json to test your backend
 Or run with npx
 
 ```
-npx stucc
+$ npx stucco
 ```
