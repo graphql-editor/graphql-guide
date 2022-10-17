@@ -6,22 +6,18 @@ description: >-
 
 # Microservices FaaS
 
-## Getting started
+Microservices FaaS is a nodeJS service to run microservices inside GraphQL Editor Cloud. All microservices come with **MongoDB Serverless** included in the microservice. So together with microservice user receives a database.
 
-To deploy your first microservice you need a schema with a query root. Let's not start with a simple to-do app but instead let's create something more challenging.
+### Getting Started
 
-{% hint style="warning" %}
-Remember. Your schema has to have a root query for GraphQL backends to work
-{% endhint %}
-
-### Use cases
-
-Shared worker deployments should be used in dev environments or MVP projects. They are limited to 200 requests/minute.
+Shared worker deployments should be used in dev environments or MVP projects. They are limited to **200 requests per minute**. However, you can deploy microservices in your own infrastructure:\
+\- All Docker/Kubernetes-based clusters.\
+\- Azure Functions
 
 #### Dev environment
 
-#### MVP projects
+GraphQL Editor CLI provides a local environment for your microservices if they live in the microservice cloud/ they are local/ live in the repository. With one simple command, it is possible to spin up the backend server.
 
-#### PoC projects
+#### MVP & PoC projects
 
-#### Internal tools
+GraphQL Editor Microservices combined with our **No-code Resolvers** can be the best option available on the market to build GraphQL backend in the shortest amount of time.
