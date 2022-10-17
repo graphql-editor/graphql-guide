@@ -1,3 +1,7 @@
+---
+description: Schema first GraphQL Server Library
+---
+
 # Stucco JS
 
 ### About
