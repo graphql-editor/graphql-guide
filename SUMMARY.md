@@ -51,7 +51,7 @@
     * [TypeScript Typings](tools/untitled/code-generation/typescript-typings.md)
     * [Resolvers](tools/untitled/code-generation/resolvers.md)
     * [Model Types](tools/untitled/code-generation/model-types.md)
-  * [Integrations](tools/untitled/integrations/README.md)
+  * [Integrations](tools/untitled/integrations.md)
     * [Installation](tools/untitled/integrations/installation.md)
     * [Develop own integrations](tools/untitled/integrations/develop-own-integrations.md)
   * [Get the CI token](tools/untitled/get-the-ci-token.md)
