@@ -1,4 +1,4 @@
-# Get the CLI token
+# Get the CI token
 
 For actions like deployment, you will need an access token. To get it run a command:
 
