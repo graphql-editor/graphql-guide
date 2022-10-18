@@ -1,14 +1,14 @@
 ---
-description: Deploy Microservices via CLI and CI templates
+description: Deployment of Microservices via CLI and CI templates.
 ---
 
-# Deploy
+# Deploy from repository
 
-Inspired by frontend deployment platforms we have focused on creating an easy experience. To deploy your backend code to our shared workers you need call:\
+Inspired by frontend deployment platforms we have created an easy experience. To deploy your backend code to our shared workers. To deploy your code you need call:\
 
 
 ```
 npx graphql-editor-cli deploy
 ```
 
-It will trigger the deployment to serverless GraphQL functions and additionally provide logs for this deployment.
+It will trigger the deployment to serverless GraphQL functions and provide logs for this deployment.

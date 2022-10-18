@@ -1,16 +1,16 @@
 ---
-description: A visual way to play with data from a GraphQL backend.
+description: Great way to play with data from GraphQL backend.
 ---
 
 # JS Playground
 
-You can create fully functional static GraphQL data-driven websites using our JAMStack Tool. The websites are entirely based on your schema and customizable using CSS and JS consoles. You also have an option to preview, export and save your work in a few convenient ways.
+You can create fully functional static GraphQL data-driven websites using our JAMStack Tool. The websites are entirely based on your schema and customizable using CSS and JS consoles. You also have an option to preview, export, and save your work in a few convenient ways.
 
 <figure><img src="../../.gitbook/assets/jsplayground production.gif" alt=""><figcaption><p>JS Playground in action</p></figcaption></figure>
 
 ### Creating a static page preview
 
-You can immediately start writing the CSS/JS code that will describe how your front-end will look like. If you want to change the endpoint you are calling for this schema (for example to a real backend) just change this function a little bit.
+Now you can start writing the CSS/JS code that will describe how your front-end will look like. If you want to change the endpoint you are calling for this schema (for example real backend), just change this function a little bit. See the example of the entire code [here](https://nightly.graphqleditor.com/stack-of-the-future/pokemon?visibleMenu=mock).
 
 ```typescript
 import React, { useEffect } from 'https://cdn.skypack.dev/react@17.0.2';
@@ -66,17 +66,20 @@ export default (props: DataType) => {
 }
 ```
 
-JS Playground is driven by GraphQL Zeus:
+This is driven by GraphQL Zeus:
 
 {% embed url="https://github.com/graphql-editor/graphql-zeus" %}
 
 Zeus is a GraphQL client for Javascript and TypeScript. For more information read the [GraphQL Zeus readme](https://github.com/graphql-editor/graphql-zeus/blob/master/README.md) on GitHub.
 
-After changing the JS code, update it by clicking the play button or by Cmd/Crtl + S to see the results in the preview window on the right.
+Here, we copied our pre-made CSS code with the following result:
+
+After changing the JS code, update it by clicking the green play button or by Cmd/Crtl + S to see the results in the preview on the right.
 
 ### Preview and download&#x20;
 
-Additionally we added a few ways to display and export the result of your work:
+Finally, we added a few ways to display and export the result of your work:
 
-* by clicking the **eye button**, you can preview the mock front end in a new tab
+* by clicking the **purple eye button**, you can preview the mock front end in a new tab
+* you can **Deploy a static site** - this will generate a website viewable online - to access it click **Open deployed static site**
 * **Export zipped static site** will download all of your mock front-end as JSON, CSS, and JS files in one zip folder

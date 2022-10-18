@@ -1,5 +1,5 @@
 ---
-description: How to setup Github Actions with GraphQL Editor Shared worker deployment
+description: How to setup Github ActionsI with GraphQL Editor Shared worker deployment
 ---
 
 # Github Actions
