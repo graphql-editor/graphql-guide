@@ -11,8 +11,8 @@ Zeus supports [GraphQL over WebSocket subscriptions](https://github.com/enisdenj
 
 Two implementations are supported:
 
-* **graphql-ws**: the modern WebSocket-based transport, implemented by [the graphql-ws package](https://www.npmjs.com/package/graphql-ws). It is the standard [used by Apollo](https://www.apollographql.com/docs/react/data/subscriptions/#choosing-a-subscription-library).
-* **legacy** (default): a transport based on raw WebSockets.
+* **graphql-ws**: the modern WebSocket-based transport, implemented by [the graphql-ws package](https://www.npmjs.com/package/graphql-ws). It is also the standard [used by Apollo](https://www.apollographql.com/docs/react/data/subscriptions/#choosing-a-subscription-library)
+* **legacy** (default): a transport based on raw WebSockets
 
 ## Generating the client
 
@@ -27,7 +27,7 @@ npm install graphql-ws
 
 If you want to use **legacy**, use `--subscriptions legacy` instead. You may need to install [ws](https://www.npmjs.com/package/ws) depending on your setup.
 
-No matter what implementation you chose, usage is the same:
+No matter what implementation you chose, the usage remains the same:
 
 ```typescript
 // Create a new Subscription with some authentication headers
@@ -47,7 +47,7 @@ wsChain('subscription')({
 });
 ```
 
-If you need to unsubscribe from a subscription (e.g. you are developing as Single Page App), you can do as follows:
+If you need to unsubscribe from a subscription (e.g. you are developing as Single Page App), you can do it as follows:
 
 ```typescript
 // Subscribe to new messages

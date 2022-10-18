@@ -5,9 +5,9 @@ order: 6
 category: Basics
 ---
 
-# Javascript
+# JavaScript
 
-To use with Javascript as an autocomplete tool you need to install TypeScript, run the Zeus CLI, and then transform the result to JS using `tsc`
+To use with JavaScript as an autocomplete tool you need to install TypeScript, run the Zeus CLI, and then transform the result to JS using `tsc`
 
 ```
 $ npm i -D typescript

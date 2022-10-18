@@ -65,7 +65,7 @@
     * [ES Modules](tools/zeus/basics/esmodule.md)
     * [Specification](tools/zeus/basics/spec.md)
     * [Use as a library](tools/zeus/basics/use-as-a-library.md)
-    * [Javascript](tools/zeus/basics/javascript.md)
+    * [JavaScript](tools/zeus/basics/javascript.md)
     * [Custom fetch](tools/zeus/basics/custom.-fetch.md)
     * [Subscriptions](tools/zeus/basics/subscriptions.md)
   * [GraphQL](tools/zeus/graphql/index.md)

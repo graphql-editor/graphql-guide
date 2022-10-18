@@ -7,7 +7,7 @@ category: Basics
 
 # Custom fetch
 
-With Zeus `Thunder` you have total control of fetch function but will not lose the result type. ⚡️
+Zeus `Thunder` gives total control of the fetch function and you won't lose the result type. ⚡️
 
 ```typescript
 import { Thunder } from './zeus';

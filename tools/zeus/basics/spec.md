@@ -5,9 +5,9 @@ order: 4
 category: Basics
 ---
 
-# Specification
+## Zeus Spec
 
-Returned promise of type query data object:
+Promise of type query data object is returned.
 
 ```
 PROMISE_RETURNING_OBJECT = Chain.[OPERATION_NAME]({
@@ -17,7 +17,7 @@ PROMISE_RETURNING_OBJECT = Chain.[OPERATION_NAME]({
 ).then ( RESPONSE_OBJECT => RESPONSE_OBJECT[OPERATION_FIELD] )
 ```
 
-Simple function params object:
+Simple function params object
 
 ```
 FUNCTION_FIELD_PARAMS = {
@@ -25,7 +25,7 @@ FUNCTION_FIELD_PARAMS = {
 }
 ```
 
-Query object:
+Query object
 
 ```
 QUERY_OBJECT = {
@@ -33,7 +33,7 @@ QUERY_OBJECT = {
 }
 ```
 
-Return params is an object containing RETURN\_KEY - true if it is a `scalar`, RETURN\_PARAMS for a `type` is otherwise a function where you pass field params and type return params.
+Return params is an object containing RETURN_KEY - true if it is a `scalar`, RETURN_PARAMS if `type` otherwise it is a function where you pass field params and type return params.
 
 ```
 RETURN_PARAMS = {
@@ -52,7 +52,7 @@ RETURN_PARAMS = {
 }
 ```
 
-## Use Alias Spec
+### Use Alias Spec
 
 ```
 RETURN_PARAMS = {
@@ -60,7 +60,7 @@ RETURN_PARAMS = {
 }
 ```
 
-Access aliased operation in a type-safe way
+Access aliased operation type-safe
 
 ```
 PROMISE_RETURNING_OBJECT[ALIAS_STRING]
