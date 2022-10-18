@@ -4,13 +4,13 @@ description: How to browse complex GraphQL Schemas
 
 # ERD like Relation View
 
-Browsing a big GraphQL Schema with only code is nearly impossible. Instead, you should use our diagram view to browse it.
+Navigating a big GraphQL Schema with only code is nearly impossible. Instead use our diagram view to see how to browse it in an easy and transparent way.
 
 <figure><img src="../../.gitbook/assets/relation_view(18).png" alt=""><figcaption><p>Example ERD relation view exported to .png</p></figcaption></figure>
 
 ### Navigation
 
-To navigate through this view. Click to center on a node and see all its relations displayed.
+Navigate through this view, click to center on a node and see all its relations displayed.
 
 ### Search & Order
 
@@ -28,7 +28,7 @@ Additional options are available after selecting a node:
 
 #### Parent
 
-Display parent relations. Basically display where this node is used, turn off to only display children's relations.
+Display parent relations: show where this node is used. Turn off to only display children relations.
 
 #### Scalars
 
