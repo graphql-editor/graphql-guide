@@ -1,10 +1,10 @@
 ---
-description: Use gei integrations in your backend projects
+description: Use GraphQL Editor Integrations in your backend projects
 ---
 
 # Installation
 
-Installation is done via GraphQL Editor or just using an npm package name and providing resolver path to node\_modules path. The other way is to install it via GraphQL Editor
+Installation is done via GraphQL Editor or by just using an npm package name and providing a resolver path to the node\_modules path. The other way is to simply install it via GraphQL Editor:
 
 {% code title="package.json" %}
 ```json
