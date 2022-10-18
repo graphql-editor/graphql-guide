@@ -1,10 +1,10 @@
 ---
-description: Our endpoint switcher works for every tab of Cloud.
+description: Our endpoint switcher works for every Cloud tab.
 ---
 
 # Endpoint switcher
 
-Endpoint switcher allows to provide your own endpoints and headers against which the tool is used at the moment
+Endpoint switcher lets you provide your own endpoints and headers to query against your schema:
 
 <figure><img src="../../.gitbook/assets/endpoints prod.gif" alt=""><figcaption></figcaption></figure>
 
@@ -14,4 +14,4 @@ Each endpoint allows the creation of custom headers.
 
 ### CORS
 
-You don't have to worry about CORS as all requests go through the editor proxy.
+You don't have to worry about CORS as all requests go through the GraphQL Editor proxy.
