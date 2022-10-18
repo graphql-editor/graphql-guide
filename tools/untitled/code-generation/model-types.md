@@ -1,10 +1,14 @@
+---
+description: Generate model types for popular databases like MongoDB
+---
+
 # Model Types
 
 ```bash
 $ gecli codegen models
 ```
 
-Generate TypeScript Models from GraphQL types. They are very useful to use with popular Databases
+Generate TypeScript Models from GraphQL types. They are very handy to use with popular databases.
 
 ```graphql
 type Person {
@@ -23,7 +27,7 @@ import type { ModelTypes } from '@/zeus';
 export type Person = ModelTypes['Person'];
 ```
 
-later on you may want to transform it so it is a database model.
+later on you may want to transform it so that it is a database model
 
 ```typescript
 import type { ModelTypes } from '@/zeus';
@@ -32,13 +36,13 @@ export type Person = Omit<ModelTypes['Person'], 'friends'> & {
 };
 ```
 
-So you see the concept.
+You can see the concept.
 
 
 
 **MongoDB**
 
-Here is an example how you can use your model in MongoDB.
+Here is an example how you can use your model in MongoDB:
 
 ```typescript
 db.collection<MyModel>.find({})

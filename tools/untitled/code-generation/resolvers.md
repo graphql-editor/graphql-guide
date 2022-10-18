@@ -1,22 +1,22 @@
 ---
-description: How to specify resolvers in a repo
+description: How to specify resolvers in repo
 ---
 
 # Resolvers
 
-To specify resolvers in a repo use the CLI to add those with a command or manually edit the stucco.json file.
+To specify resolvers in repo use CLI to add those with a command or manually edit stucco.json file.
 
-### Adding a resolver
+### Add a resolver
 
 ```
 npx gecli resolver
 ```
 
-This above command will interactively ask you about what resolver code you want to create.
+This command will interactively ask you about what resolver code you want to create.
 
-### Adding manually
+### Add manually
 
-Given that the `schema.graphql` in your repository looks something like this:
+Given the `schema.graphql` in your repository looks like this:
 
 {% code title="schema.graphql" %}
 ```graphql
@@ -30,7 +30,7 @@ schema {
 ```
 {% endcode %}
 
-You can specify the resolver as follows. As you see the `name` is the path to a generated or `js` file.
+You can specify the resolver as follows. As you see the `name` is the path to generated or `js` file.
 
 {% code title="stucco.json" %}
 ```javascript
