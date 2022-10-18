@@ -8,18 +8,16 @@ Schema libraries allow you to import one schema to another. You cannot see the i
 
 <figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
-Every GraphQL Editor project can act as a library. We just cut off the schema keyword. Library nodes are not editable. To edit libraries you should either extend library nodes or edit the library project directly and release a new version.
+Every GraphQL Editor project can act as a library, we just need to cut off the schema keyword. Library nodes are not editable. To edit libraries you should either extend library nodes or edit the library project directly and release a new version.
 
 ### Attaching libraries to an existing project
 
-To attach libraries to an existing project click **Edit GraphQL libraries**.
-
-The library screen will popup
+To attach libraries to an existing project click **Libraries** in the top menu, it will take you to the libraries screen.
 
 <figure><img src="../.gitbook/assets/image (7) (3).png" alt=""><figcaption></figcaption></figure>
 
-To attach a library, search for it and click the small tick. You can also change the version of the library by clicking the suitable version on the right side of the panel.
+You can choose one of our common libraries or search your workspaces for libraries to add. To attach a library simply click the **+** button next to it. You can also change the version of the library by using the dropdown menu on the right side of the panel.
 
 {% hint style="success" %}
-Remember to click the **save** button when you are done editing to accept changes!
+Remember to press **save changes** when you are done editing!
 {% endhint %}
