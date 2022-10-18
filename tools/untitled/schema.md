@@ -1,10 +1,10 @@
 ---
-description: Download Editor schema to output directory
+description: Download your GraphQL Editor schema to output directory
 ---
 
 # Schema
 
-Fetch schema from GraphQL Editor project. Schema will be compiled with GraphQL libraries you are using for this project.
+Fetch schema from a GraphQL Editor project. Schema will be compiled with all the GraphQL libraries you are using for this project.
 
 ### Additional options
 

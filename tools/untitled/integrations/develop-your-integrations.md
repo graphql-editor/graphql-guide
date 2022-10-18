@@ -2,11 +2,11 @@
 description: Create your own no-code integrations
 ---
 
-# Develop own integrations
+# Develop your integrations
 
 **Development**
 
-To develop GraphQL Editor integration use `gecli create backend` command to create your project. Then initialize the integration.
+To develop a GraphQL Editor Integration use the `gecli create backend` command to create your project. Then initialize the integration.
 
 **Data format**
 
@@ -48,20 +48,20 @@ const integration: IntegrationSpecification = {
 ```
 {% endcode %}
 
-Later on after `gecli gei integrate` command it integrates your typescript file to the `stucco.json`
+Later on use the `gecli gei integrate` command to integrate your TypeScript file to the `stucco.json`
 
 **Init**
 
-Init files needed to create integration from your backend project to be used in GraphQL Editor No-Code editor or as npm package.
+Init files needed to create the integration from your backend project to be used in GraphQL Editor No-Code editor or as npm package.
 
 **Integrate**
 
-Integrate your files with project's `stucco.json`
+Integrate your files with the project's `stucco.json`
 
 **Publish**
 
-Publish your integration to GraphQL Editor be used in GraphQL Editor No-Code editor.
+Publish your integration to GraphQL Editor for use in the GraphQL Editor No-Code editor.
 
 **Unpublish**
 
-Unpublish your integration from GraphQL Editor
+Unpublish your integration from GraphQL Editor.

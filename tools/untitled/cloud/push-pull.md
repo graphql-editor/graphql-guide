@@ -1,21 +1,25 @@
+---
+description: Push changes to GraphQL Editor Cloud or pull the project to a repo
+---
+
 # Push/Pull
 
 ### **Push**
 
-Sometimes you will want to push to cloud GraphQL Editor back from repo. So editor users can see/test the changes in Editor browser IDE. To do it
+Sometimes you might want to push to cloud GraphQL Editor back from the repo, so that editor users can see/test the changes in the Editor browser IDE. To do so use this command:
 
 ```
 $ gecli cloud push
 ```
 
-This will clean cloud folder and push cwd to the editor cloud.
+This will clean the cloud folder and push cwd to the editor cloud.
 
 ### **Pull**
 
-When you want to move from cloud folder as your service is getting bigger and put the project inside repository. You can use pull command
+You might want to move from the cloud folder if your service is getting bigger and put the project inside a repository. To do so you can use the pull command:
 
 ```
 $ gecli cloud pull
 ```
 
-It will pull the project to the project name folder
+It will pull the project to the project name folder.
