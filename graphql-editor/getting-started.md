@@ -6,14 +6,14 @@ description: Learn GraphQL and GraphQL Editor
 
 ### Onboardings
 
-All screens have onboardings. Those will guide you through every complicated stuff. If you want to reset onboardings go to Home > Help > Reset onboarding tour
+Every view in GraphQl Editor has an onboarding tour. It will guide you through all the features and help you with the complicated stuff. If you want to reset onboardings go to Home > Help > Reset onboarding tour.
 
-<figure><img src="../.gitbook/assets/onboardings prod.gif" alt=""><figcaption><p>onboardings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/onboardings prod.gif" alt=""><figcaption><p>Graph view onboarding</p></figcaption></figure>
 
 ### Interactive GraphQL Tutorial
 
-This tutorial shows how to use the **Graph** section of GraphQL Editor and teaches GraphQL itself. To start the tutorial click Home > Help > Interactive GraphQL Tutorial.
+A tutorial which shows how to use the **Graph** section of GraphQL Editor and teaches GraphQL itself. To start the tutorial click Home > Help > Interactive GraphQL Tutorial.
 
 ### Example projects
 
-Example projects are located in the **explore-projects** workspace. They show how to use certain features of GraphQL Editor. You will find filled **API, Microservices, Libraries,** and **JS Playground** sections.
+Example projects are located in the **explore-projects** workspace. They help understand how to use certain features of GraphQL Editor. Load one up and you'll find filled **API, Microservices, Libraries** and **JS Playground** sections for you to play around with.
