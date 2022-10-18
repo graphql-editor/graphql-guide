@@ -18,4 +18,4 @@ This command will
 
 This command will also react to the changes made inside GraphQL Editor.&#x20;
 
-This is simply the fastest way to spin the local server for your no-code GraphQL Editor system.
+This is simply the fastest way to spin a local server for your no-code GraphQL Editor system.
