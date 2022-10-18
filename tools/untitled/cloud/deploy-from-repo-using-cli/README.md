@@ -1,5 +1,5 @@
 ---
-description: Deployment of Microservices via CLI and CI templates.
+description: Deploy Microservices via CLI and CI templates
 ---
 
 # Deploy

@@ -45,7 +45,6 @@
     * [Deploy](tools/untitled/cloud/deploy-from-repo-using-cli/README.md)
       * [Gitlab CI](tools/untitled/cloud/deploy-from-repo-using-cli/gitlab-ci.md)
       * [Github Actions](tools/untitled/cloud/deploy-from-repo-using-cli/github-actions.md)
-    * [Deploy](tools/untitled/cloud/deploy.md)
     * [Push/Pull](tools/untitled/cloud/push-pull.md)
   * [Code Generation](tools/untitled/code-generation/README.md)
     * [TypeScript Typings](tools/untitled/code-generation/typescript-typings.md)
