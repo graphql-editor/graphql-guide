@@ -1,7 +1,7 @@
 ---
 description: >-
-  Use and test your GraphQL server. If you don't have one don't worry, we
-  provide you with instant fake backend
+  Use and test your GraphQL server. If you don't have one don't worry, you can
+  always use our instant fake backend.
 ---
 
 # GraphiQL Cloud
@@ -14,7 +14,7 @@ To run your GraphQL operations simply choose the operation you want to run and c
 
 ### Change URL and headers
 
-To change URL and/or headers open the Change headers popup from the Cloud submenu.
+To change URL and/or headers use the dropdown submenu at the top and add a new endpoint.
 
 ### CORS
 
