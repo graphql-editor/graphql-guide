@@ -9,7 +9,7 @@ category: Basics
 
 ### Generate Code
 
-This will be rarely used, but here you are! Generate Typescript and Javascript from GraphQL definitions
+This will be rarely used, but here you are! Generate Typescript and Javascript from GraphQL definitions:
 
 ```typescript
 import { TreeToTS } from 'graphql-zeus';
@@ -29,7 +29,7 @@ const typeScriptDefinition = TreeToTS.resolveTree(Parser.parse(schemaFileContent
 
 ### Dynamically Fetch Schema
 
-This is useful when you need your schema fetched from your GraphQL endpoint in-code
+This is useful when you need your schema fetched from your GraphQL endpoint in-code:
 
 ```typescript
 import { Utils } from 'graphql-zeus';
