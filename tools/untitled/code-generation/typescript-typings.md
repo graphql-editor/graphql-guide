@@ -1,10 +1,6 @@
----
-description: Export typings from your project
----
-
 # TypeScript Typings
 
-Generate TypeScript typings from your GraphQL Editor project.
+Generate TypeScript typings from GraphQL Editor project.
 
 ```
 $ gecli codegen typings
