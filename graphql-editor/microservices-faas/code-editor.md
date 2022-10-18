@@ -1,5 +1,5 @@
 ---
-description: Code your backend directly inside browser
+description: Code your backend directly inside the browser
 ---
 
 # Code Editor
