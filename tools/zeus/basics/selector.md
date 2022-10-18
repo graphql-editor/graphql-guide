@@ -35,7 +35,7 @@ const queryWithSelectionSet = await chain('query')({
 
 ### Inferring the response type
 
-Sometimes you would like to infer the response type. The it is best to use selectors
+Sometimes you might want to infer the response type, for that it is best to use selectors:
 
 ```tsx
 import { Selector, InputType, GraphQLTypes } from './zeus';

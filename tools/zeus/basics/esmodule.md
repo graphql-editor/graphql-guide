@@ -5,10 +5,10 @@ order: 3
 category: Basics
 ---
 
-#### Return with .js import for esModules
+# ES Modules
 
-Due to validity of `.js` imports in TS for esmodules you can use flag `es` to generate `.js` imports
+Due to validity of `.js` imports in TypeScript for ES modules you can use the flag `es` to generate `.js` imports
 
-```sh
+```
 $ zeus schema.graphql ./ --es
 ```
