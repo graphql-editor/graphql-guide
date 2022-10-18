@@ -4,7 +4,7 @@ description: How to write resolvers for custom scalars
 
 # Custom Scalars
 
-Scalars used in your schema can be returned, being processed by a custom resolver function first. This is optional and by default, they are returned without a type check.
+Scalars used in your schema can be returned after being processed by a custom resolver function first. This is optional and by default, they are returned without a type check.
 
 ```json
 {

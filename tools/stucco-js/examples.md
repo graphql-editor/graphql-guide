@@ -4,7 +4,7 @@ description: StuccoJS Examples
 
 # Examples
 
-This examples shows a simple GraphQL schema with one string field resolver.
+This example shows a simple GraphQL schema with one string field resolver:
 
 {% code title="schema.graphql" %}
 ```graphql
@@ -45,7 +45,7 @@ When the following query is executed:
 </strong>    hello
 }</code></pre>
 
-It should yield that response:
+It should yield this response:
 
 {% code title="Response" %}
 ```json

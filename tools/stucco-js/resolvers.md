@@ -42,7 +42,7 @@ export const (input) => {
 }
 ```
 
-#### Passing arguments to another resolver
+#### Passing arguments to another resolver:
 
 
 
