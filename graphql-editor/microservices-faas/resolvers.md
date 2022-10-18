@@ -8,14 +8,14 @@ Build resolvers with GraphQL Editor Integrations and Code.&#x20;
 
 
 
-### Building resolvers for the GraphQL fields
+### Building resolvers for GraphQL fields
 
-To build a resolver please select one of:
+To build a resolver you can use one of the following options:
 
-* no resolver
-* code resolver&#x20;
-* Select custom integration
+* no resolver (usual for scalar types)
+* custom resolver, which you can create yourself using the code editor
+* one of our built-in integrations
 
 <figure><img src="../../.gitbook/assets/resolvers prod.gif" alt=""><figcaption></figcaption></figure>
 
-Selecting code resolver will require you to put the correct path to generated TypeScript code or Javascript code of the resolver.
+Selecting custom resolver will require you to put the correct path to generated TypeScript code or JavaScript code of the resolver.
