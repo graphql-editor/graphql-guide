@@ -5,24 +5,22 @@ order: 4
 category: Plugins
 ---
 
-## Usage with Typed Document Node
+# Typed Document Node
 
 ```
 npm i @graphql-codegen/typed-document-node
 ```
 
-Zeus can generate builders for [`TypedDocumentNode`][typed-document-node], a type-safe query
-representation understood by most GraphQL clients (including Apollo, urql etc) by adding the
-`--typedDocumentNode` or `--td` flag to the CLI.
+Zeus can generate builders for [`TypedDocumentNode`](https://www.graphql-code-generator.com/plugins/typed-document-node), a type-safe query representation understood by most GraphQL clients (including Apollo, URQL etc) by adding the `--typedDocumentNode` or `--td` flag to the CLI.
 
-### Generate Type-Safe Zeus Schema And TypedDocumentNode query builders
+## Generate Type-Safe Zeus Schema And TypedDocumentNode query builders
 
-```sh
+```
 $ zeus https://yourschema.com/graphql ./  --typedDocumentNode
 # typedDocumentNode.ts file with typed document node builders is now in the output destination
 ```
 
-### TypedDocumentNode + Apollo Client useMutation examples
+## TypedDocumentNode + Apollo Client useMutation examples
 
 The following example demonstrates usage with Apollo. Other clients should work similarly.
 
@@ -54,5 +52,3 @@ const Main = () => {
   );
 };
 ```
-
-[typed-document-node]: https://www.graphql-code-generator.com/plugins/typed-document-node

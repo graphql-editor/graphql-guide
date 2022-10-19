@@ -5,22 +5,22 @@ order: 1
 category: Plugins
 ---
 
-## Usage with Apollo GraphQL
+# Apollo
 
-From 5.1.3 Zeus apollo should be used with graphql-typed-document-node
+From Zeus version 5.1.3 onwards Apollo should be used with graphql-typed-document-node
 
 ```
 npm i @graphql-codegen/typed-document-node
 ```
 
-### Generate Type-Safe Zeus Schema And Apollo Client Type-Safe Hooks
+## Generate Type-Safe Zeus Schema And Apollo Client Type-Safe Hooks
 
-```sh
+```
 $ zeus schema.graphql ./  --typedDocumentNode
 # apollo.ts file with typed hooks is now in the output destination
 ```
 
-### TypedDocumentNode + Apollo Client useMutation examples
+## TypedDocumentNode + Apollo Client useMutation examples
 
 The following example demonstrates usage with Apollo. Other clients should work similarly.
 
@@ -52,5 +52,3 @@ const Main = () => {
   );
 };
 ```
-
-[typed-document-node]: https://www.graphql-code-generator.com/plugins/typed-document-node
