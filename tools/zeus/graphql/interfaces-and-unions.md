@@ -9,7 +9,7 @@ category: GraphQL
 
 ### GraphQL Unions
 
-You can use Zeus with [GraphQL Unions](https://spec.graphql.org/June2018/#sec-Unions):
+Here's how you can use Zeus with [GraphQL Unions](https://spec.graphql.org/June2018/#sec-Unions):
 
 ```typescript
 const { drawChangeCard } = await chain('query')({
@@ -27,7 +27,7 @@ const { drawChangeCard } = await chain('query')({
 });
 ```
 
-Response:
+and here's the response:
 
 ```json
 {
@@ -39,7 +39,7 @@ Response:
 
 ### GraphQL Interfaces
 
-Zeus works with [GraphQL Interfaces](http://spec.graphql.org/June2018/#sec-Interfaces)
+Zeus also works with [GraphQL Interfaces](http://spec.graphql.org/June2018/#sec-Interfaces)
 
 ```typescript
 const { nameables } = await Gql('query')({
@@ -58,7 +58,7 @@ const { nameables } = await Gql('query')({
 });
 ```
 
-Response:
+and the response:
 
 ```json
 {

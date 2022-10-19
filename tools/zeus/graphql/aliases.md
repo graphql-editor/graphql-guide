@@ -7,7 +7,7 @@ category: GraphQL
 
 # Aliases
 
-Zeus supports declaring aliases 🥸
+Zeus also supports declaring aliases 🥸
 
 ```graphql
 const aliasedQueryExecute = await chain('query')({
@@ -27,7 +27,7 @@ const aliasedQueryExecute = await chain('query')({
 });
 ```
 
-Response:
+and here's the response:
 
 ```json
 {
@@ -44,7 +44,7 @@ Response:
 }
 ```
 
-Now you can access properties type-safe like this
+Now you can access properties in a type-safe way by using:
 
 ```javascript
 aliasedQueryExecute.listCards.map((c) => c.atak);

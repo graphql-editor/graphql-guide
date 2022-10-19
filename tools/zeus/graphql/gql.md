@@ -7,7 +7,7 @@ category: GraphQL
 
 # Generate Gql
 
-Use the `Zeus` function to generate a gql string
+Use the `Zeus` function to generate a gql string:
 
 ```typescript
 import { Zeus } from './zeus';
