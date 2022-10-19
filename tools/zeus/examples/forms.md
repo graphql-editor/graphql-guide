@@ -7,9 +7,9 @@ category: Examples
 
 # Forms
 
-To use zeus with forms you should make use of it's generated ValueTypes. When submitting form using a mutation It is much easier and type-safe to do it using `ValueTypes`.
+To use GraphQL Zeus with forms you should make use of its generated Value Types. When submitting a form using a mutation it is much easier and type-safe to do it using `ValueTypes`.
 
-Having the following schema:
+Here's an example schema:
 
 ```graphql
 type Mutation {

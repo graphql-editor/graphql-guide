@@ -7,10 +7,10 @@ category: GraphQL
 
 # Directives
 
-Zeus also supports using directives on fields:
+Zeus supports using directives on fields.
 
 ```typescript
-import { Chain } from './zeupypes';
+import { Chain } from './zeus';
 
 // Create a Chain client instance with the endpoint
 const chain = Chain('https://faker.graphqleditor.com/a-team/olympus/graphql');
@@ -25,13 +25,13 @@ const listCardsAndDraw = await chain('query')({
 });
 ```
 
-Remember you need to put full string instead of `true`.
+So you need to put full string instead of `true`.
 
 ## Use on object field
 
-Here's how to use directive on `drawCard`:
+Use directive on `drawCard`
 
-```typescript
+```ts
 import { Chain } from './zeus';
 
 // Create a Chain client instance with the endpoint
@@ -49,7 +49,7 @@ const listCardsAndDraw = await chain('query')({
 
 ## Use on function
 
-```typescript
+```ts
 import { Chain } from './zeus';
 
 // Create a Chain client instance with the endpoint
@@ -76,7 +76,7 @@ const listCardsAndDraw = await chain('query')({
 
 ## Use it with variables
 
-```typescript
+```ts
 import { Chain } from './zeus';
 
 // Create a Chain client instance with the endpoint

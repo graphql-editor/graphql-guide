@@ -9,11 +9,11 @@ category: GraphQL
 
 ### Scalars
 
-In Zeus you can encode and decode scalars.
+In Zeus you can encode and decode scalars
 
 #### Decode
 
-The decode function is called every time a scalar returns from backend before passing the result from Chain, Subscription functions
+Decode function is called every time scalar returns from backend before passing the result from Chain,Subscription functions
 
 ```graphql
 scalar JSON
@@ -56,7 +56,7 @@ So the `data.drawCard.info` will be of type `Date` as provided by decoder `Retur
 
 #### Encode Scalars
 
-You can also encode scalars before sending them to backend:
+You can also encode scalars before sending them to backend
 
 ```typescript
 import { Chain } from './zeus';

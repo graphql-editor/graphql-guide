@@ -5,9 +5,11 @@ order: 2
 category: Examples
 ---
 
-When query returns an object and you want to store it in React State, you can use zeus to have 100% type-safe objects in your state.
+# React state
 
-Having the following schema:
+When a query returns an object and you want to store it in React State, you can use GraphQL Zeus to have 100% type-safe objects in your state.
+
+Here's an example schema:
 
 ```graphql
 type Query {
@@ -24,7 +26,7 @@ type User {
 }
 ```
 
-You can use zeus types to get the type of the objects received from GraphQL Backend
+You can use Zeus types to get the type of the objects received from a GraphQL Backend
 
 ```tsx
 import React, { useState } from 'react';
